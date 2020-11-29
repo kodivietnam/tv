@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000
+https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8?|User-Agent=Chrome%2F59.0.3071.115+Safari%2F537.36
