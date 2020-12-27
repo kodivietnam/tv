@@ -1,18 +1,18 @@
 http://kodi.gq:8880/3sTV.php?id=
 
-*@Bình luận tiếng Việt svT|VMF-http://kodi.gq:8880/3sTV.php?id=13N2qSaS9jYSesLjxkSsK8nD__OVwPH5MIg2i7KHxSiA
+*@Bình luận tiếng Việt svT|VMF-http://kodi.gq:8880/bd.php?id=13N2qSaS9jYSesLjxkSsK8nD__OVwPH5MIg2i7KHxSiA
 
-*@Bình luận tiếng Việt svV|VMF-http://kodi.gq:8880/3sTV.php?id=11L6R2GW0xIZ4KdllzhJlyUNMLIdcR-h6cHtG004JAvM
+*@Bình luận tiếng Việt svV|VMF-http://kodi.gq:8880/bd.php?id=11L6R2GW0xIZ4KdllzhJlyUNMLIdcR-h6cHtG004JAvM
 
-*@Bình luận tiếng Việt svB|VMF-http://kodi.gq:8880/3sTV.php?id=1W5DOaYdC1EkUQPdTS-pvpwNFQhzrCPBi6J8DQxSxFXI
+*@Bình luận tiếng Việt svB|VMF-http://kodi.gq:8880/bd.php?id=1W5DOaYdC1EkUQPdTS-pvpwNFQhzrCPBi6J8DQxSxFXI
 
-*@Bình luận tiếng Việt svX|VMF-http://kodi.gq:8880/3sTV.php?id=10M7-bcZBpln8jkpOGG46fDig-ZMEhPfKHrcfbEYgBtg
+*@Bình luận tiếng Việt svX|VMF-http://kodi.gq:8880/bd.php?id=10M7-bcZBpln8jkpOGG46fDig-ZMEhPfKHrcfbEYgBtg
 
-*@Bình luận tiếng Việt svI|VMF-http://kodi.gq:8880/3sTV.php?id=179Nm2eL0SyTpKzLiHyBZllqUiizyCKbI7zR40KZyhSI
+*@Bình luận tiếng Việt svI|VMF-http://kodi.gq:8880/bd.php?id=179Nm2eL0SyTpKzLiHyBZllqUiizyCKbI7zR40KZyhSI
 
-*@Bình luận tiếng Việt svTV|VMF-http://kodi.gq:8880/3sTV.php?id=1kVaLuH9ppYxAAq6URolk2_Qip7y6EqIXQBVPJzprVv0
+*@Bình luận tiếng Việt svTV|VMF-http://kodi.gq:8880/bd.php?id=1kVaLuH9ppYxAAq6URolk2_Qip7y6EqIXQBVPJzprVv0
 
-*@Bình luận tiếng Việt svXV|VMF-http://kodi.gq:8880/3sTV.php?id=10lzIhoN9iUwP3fzvFso_yhIOaUiSpv9y9YpkzO-Q4Fc
+*@Bình luận tiếng Việt svXV|VMF-http://kodi.gq:8880/bd.php?id=10lzIhoN9iUwP3fzvFso_yhIOaUiSpv9y9YpkzO-Q4Fc
 
 *@[COLOR red]KHAMPHA Channel[/COLOR]|m3uhttp://pastebin.com/raw/MDyHF0F6
 
