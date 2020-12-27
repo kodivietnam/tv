@@ -4,7 +4,7 @@ http://kodi.gq:8880/3sTV.php?id=
 
 *@Bình luận tiếng Việt svV|VMF-http://kodi.gq:8880/3sTV.php?id=11L6R2GW0xIZ4KdllzhJlyUNMLIdcR-h6cHtG004JAvM
 
-*@Bình luận tiếng Việt svB|https://docs.google.com/spreadsheets/d/1W5DOaYdC1EkUQPdTS-pvpwNFQhzrCPBi6J8DQxSxFXI/edit?usp=drivesdk
+*@Bình luận tiếng Việt svB|VMF-http://kodi.gq:8880/3sTV.php?id=1W5DOaYdC1EkUQPdTS-pvpwNFQhzrCPBi6J8DQxSxFXI
 
 *@Bình luận tiếng Việt svX|VMF-http://kodi.gq:8880/3sTV.php?id=10M7-bcZBpln8jkpOGG46fDig-ZMEhPfKHrcfbEYgBtg
 
