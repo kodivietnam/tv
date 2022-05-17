@@ -1,23 +1,1516 @@
 
-*BL tiếng Việt svT|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=27083
+<!DOCTYPE html>
+<html lang="vi">
 
-*BL tiếng Việt svV|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=27105
+<head>
+    <title>KhomucTV Trực Tiếp Bóng Đá Hôm Nay: Link Xem Bóng Đá Trực Tuyến HD</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&#038;display=swap" /></noscript>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script type="text/javascript" src="https://khomuc.tv/wp-content/themes/khomuctv/assets/jquery/jquery.min.js?v=3.6.0"></script>
+    <script type="text/javascript" src="https://khomuc.tv/wp-content/themes/khomuctv/assets/jquery/jquery-ui.js?v=1.13.1"></script>
+    
+    
+
+    <link rel="stylesheet" id="bootstrap-css" href="https://khomuc.tv/wp-content/themes/khomuctv/assets/bootstrap5/bootstrap.min.css?ver=5.9.1" type="text/css" media="all">
+    <script type="text/javascript" src="https://khomuc.tv/wp-content/themes/khomuctv/assets/bootstrap5/bootstrap.min.js?ver=5.9.1" id="bootstrap-js"></script>
+
+    <link rel="icon" type="image/png" href="https://khomuc.tv/wp-content/themes/khomuctv/images/favicon.png" sizes="32x32">
+
+    <script async src="https://ads.clickdigisol.net/www/delivery/asyncjs.php"></script>
+
+    <link rel="stylesheet" id="bootstrap-css" href="https://khomuc.tv/wp-content/themes/khomuctv/assets/carousel/owl.carousel.min.css?ver=5.9.2" type="text/css" media="all">
+    <link rel="stylesheet" id="bootstrap-css" href="https://khomuc.tv/wp-content/themes/khomuctv/assets/jquery/jquery-ui.min.css" type="text/css" media="all">
+    
+    <script type="text/javascript" src="https://khomuc.tv/wp-content/themes/khomuctv/assets/carousel/owl.carousel.min.js?ver=5.9.2"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-213458148-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-213458148-1');
+</script>
+    <script src="https://khomuc.tv/wp-content/themes/khomuctv/assets/app.js?v=1.7.5"></script>
+
+    
+<!-- Search Engine Optimization by Rank Math PRO - https://s.rankmath.com/home -->
+<meta name="description" content="Xem bóng đá trực tiếp tại Khomuc.tv. Trực tuyến đá banh đỉnh cao, full HD, miễn phí 24/7. Trực tiếp ngoại hạng anh, la liga, bundesliga, serie A."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://khomuc.tv/" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="KhomucTV Trực Tiếp Bóng Đá Hôm Nay: Link Xem Bóng Đá Trực Tuyến HD" />
+<meta property="og:description" content="Xem bóng đá trực tiếp tại Khomuc.tv. Trực tuyến đá banh đỉnh cao, full HD, miễn phí 24/7. Trực tiếp ngoại hạng anh, la liga, bundesliga, serie A." />
+<meta property="og:url" content="https://khomuc.tv/" />
+<meta property="og:site_name" content="Khô Mực" />
+<meta property="og:updated_time" content="2022-05-17T08:45:02+07:00" />
+<meta property="article:published_time" content="2021-11-09T08:31:09+07:00" />
+<meta property="article:modified_time" content="2022-05-17T08:45:02+07:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="KhomucTV Trực Tiếp Bóng Đá Hôm Nay: Link Xem Bóng Đá Trực Tuyến HD" />
+<meta name="twitter:description" content="Xem bóng đá trực tiếp tại Khomuc.tv. Trực tuyến đá banh đỉnh cao, full HD, miễn phí 24/7. Trực tiếp ngoại hạng anh, la liga, bundesliga, serie A." />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="admin" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://khomuc.tv/#person","name":"Kh\u00f4 M\u1ef1c"},{"@type":"WebSite","@id":"https://khomuc.tv/#website","url":"https://khomuc.tv","name":"Kh\u00f4 M\u1ef1c","publisher":{"@id":"https://khomuc.tv/#person"},"inLanguage":"vi","potentialAction":{"@type":"SearchAction","target":"https://khomuc.tv/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"Person","@id":"https://khomuc.tv/author/admin/","name":"admin","url":"https://khomuc.tv/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/b89051e172b79e147133d7ba9f0a4a54?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/b89051e172b79e147133d7ba9f0a4a54?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"vi"},"sameAs":["http://khomuc.tv"]},{"@type":"WebPage","@id":"https://khomuc.tv/#webpage","url":"https://khomuc.tv/","name":"KhomucTV Tr\u1ef1c Ti\u1ebfp B\u00f3ng \u0110\u00e1 H\u00f4m Nay: Link Xem B\u00f3ng \u0110\u00e1 Tr\u1ef1c Tuy\u1ebfn HD","datePublished":"2021-11-09T08:31:09+07:00","dateModified":"2022-05-17T08:45:02+07:00","author":{"@id":"https://khomuc.tv/author/admin/"},"isPartOf":{"@id":"https://khomuc.tv/#website"},"inLanguage":"vi"},{"@type":"Article","headline":"KhomucTV Tr\u1ef1c Ti\u1ebfp B\u00f3ng \u0110\u00e1 H\u00f4m Nay: Link Xem B\u00f3ng \u0110\u00e1 Tr\u1ef1c Tuy\u1ebfn HD","datePublished":"2021-11-09T08:31:09+07:00","dateModified":"2022-05-17T08:45:02+07:00","author":{"@id":"https://khomuc.tv/author/admin/"},"publisher":{"@id":"https://khomuc.tv/#person"},"description":"Xem b\u00f3ng \u0111\u00e1 tr\u1ef1c ti\u1ebfp t\u1ea1i Khomuc.tv. Tr\u1ef1c tuy\u1ebfn \u0111\u00e1 banh \u0111\u1ec9nh cao, full HD, mi\u1ec5n ph\u00ed 24/7. Tr\u1ef1c ti\u1ebfp ngo\u1ea1i h\u1ea1ng anh, la liga, bundesliga, serie A.","name":"KhomucTV Tr\u1ef1c Ti\u1ebfp B\u00f3ng \u0110\u00e1 H\u00f4m Nay: Link Xem B\u00f3ng \u0110\u00e1 Tr\u1ef1c Tuy\u1ebfn HD","@id":"https://khomuc.tv/#richSnippet","isPartOf":{"@id":"https://khomuc.tv/#webpage"},"inLanguage":"vi","mainEntityOfPage":{"@id":"https://khomuc.tv/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Khô Mực &raquo; KhomucTV Trực Tiếp Bóng Đá Hôm Nay: Link Xem Bóng Đá Trực Tuyến HD Dòng phản hồi" href="https://khomuc.tv/trang-chu/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://khomuc.tv/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='theme-style-css'  href='https://khomuc.tv/wp-content/themes/khomuctv/style.css?ver=1652696960' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://khomuc.tv/wp-json/" /><link rel="alternate" type="application/json" href="https://khomuc.tv/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://khomuc.tv/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://khomuc.tv/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+<link rel='shortlink' href='https://khomuc.tv/' />
+<link rel="alternate" type="application/json+oembed" href="https://khomuc.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhomuc.tv%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://khomuc.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkhomuc.tv%2F&#038;format=xml" />
+<link rel="icon" href="https://khomuc.tv/wp-content/uploads/2022/05/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://khomuc.tv/wp-content/uploads/2022/05/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://khomuc.tv/wp-content/uploads/2022/05/favicon.png" />
+<meta name="msapplication-TileImage" content="https://khomuc.tv/wp-content/uploads/2022/05/favicon.png" />
 
 
-*BL tiếng Việt svB|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=27211
+</head>
+<body class="home page-template-default page page-id-2">
+    
+<header>
+    <nav class="app-navigation font-svn-outer">
+        <div class="container d-flex">
+            <a href="/" data-wpel-link="internal"><img class="logo my-2" src="https://khomuc.tv/wp-content/themes/khomuctv/images/logo.svg" /></a>
 
-*BL tiếng Việt svX|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=27244
+            <ul id="header-menu" class="text-white list-unstyled align-self-end flex-1 d-flex justify-content-lg-end mb-0 me-2"><li id="menu-item-5878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-5878"><a href="https://khomuc.tv/" aria-current="page" data-wpel-link="internal">Trang chủ</a></li>
+<li id="menu-item-5653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5653"><a href="/soi-keo-bong-da/" data-wpel-link="internal">Soi kèo</a></li>
+<li id="menu-item-1077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1077"><a href="/the-thao" data-wpel-link="internal">Show thể thao</a>
+<ul class="sub-menu">
+	<li id="menu-item-1183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1183"><a href="/the-thao/we-speak-football" data-wpel-link="internal">We Speak Football</a></li>
+	<li id="menu-item-1182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1182"><a href="/the-thao/mr-who" data-wpel-link="internal">Mr Who</a></li>
+</ul>
+</li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="/ti-le-keo" data-wpel-link="internal">Tỉ lệ kèo</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="/lich-thi-dau" data-wpel-link="internal">Lịch thi đấu</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/ket-qua" data-wpel-link="internal">Kết quả</a></li>
+<li id="menu-item-5705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5705"><a href="https://khomuc.tv/world-cup/" data-wpel-link="internal">World Cup</a></li>
+</ul>
+            <div id="searchBox" class="search-box align-self-center">
+                <form method="get" class="d-flex">
+                    <input type="text" class="input flex-1 border-0 fs-14 me-1" placeholder="Tên đội bóng, tỉ lệ, blv..." name="s" value="" />
+                    <input type="submit" value="" class="d-none" />
+                    <i class="fa fa-search search-icon fs-5"></i>
+                </form>
+            </div>
 
-*BL tiếng Việt svI|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=28081
+            <div id="toggleMenuButton" class="toggle-menu-button align-self-center">
+                <div class="icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+    
+    <main>
+        <div class="ads-pc ads-item">
+            <ins data-revive-zoneid="146" data-revive-id="2ca521b3081255ac37b87bc891c5637d"></ins>
+        </div>
+
+        <div class="ads-mb ads-item">
+            <ins data-revive-zoneid="149" data-revive-id="2ca521b3081255ac37b87bc891c5637d"></ins>
+        </div>
+        
 
 
-*BL tiếng Việt svTV|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=28010
+<div class="main-carousel-wrapper position-relative mt-2">
+        <div class="container">
+        <div class="owl-carousel">
+                            <a href="https://khomuc.tv/truc-tiep-southampton-vs-liverpool-18-05-2022-0145/" data-wpel-link="internal">
+                    <img src="https://khomuc.tv/wp-content/uploads/2022/05/template-don-khomuc-17.png">
+                </a>
+                            <a href="https://khomuc.tv/mr-who-trai-nghiem-tat-tan-tat-n-h-a-c-a-i-hot-nhat-hien-nay/" data-wpel-link="internal">
+                    <img src="https://khomuc.tv/wp-content/uploads/2022/04/lichlive.png">
+                </a>
+                    </div>
+    </div>
+</div>
+<div class="mt-3">
+    <iframe id="schedule-iframe" src="https://keobong.club/ti-le-keo?theme=theme6" style="width: 100%; height: 234px !important;" ></iframe>
+</div>
 
-*BL tiếng Việt svXV|plugin://plugin.video.vietmediaF/?action=episodes&thread_id=25760
+
+<section class="home-live-now container position-relative mt-5">
+            <span class="home-live-now__title fs-24 d-flex">
+            <p><strong class="font-svn-outer text-accent fs-40 fs-sm-24">LIVE NOW</strong> <span class="ms-2 fs-24 fs-sm-14">các trận đang phát sóng</span></p>
+            <div class="section-header-divider"></div>
+        </span>
+        <div class="list-schedule-match-wrapper">
+        <div class="list-schedule-match d-flex flex-1">
+            
+                                                                            <div id="item-live-now-" class="item-live-now-match d-flex flex-column me-3" data-time="">
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="item-live-now-match__header d-flex flex-column justify-content-between p-2 text-decoration-none text-white" style="background-image: url(&#039;https://khomuc.tv/wp-content/uploads/2022/04/11.jpg&#039;);" data-wpel-link="internal">
+                            <div class="d-flex align-items-center">
+                                <img class="item-live-now-match__header__avatar" src="https://khomuc.tv/wp-content/uploads/2022/05/Logo-Kho-Nhai.jpg">
+                                <span class="fw-bold ms-2">Khô Nhái</span>
+                            </div>
+                            <div class="d-flex flex-column justify-content-center align-items-center">
+                                <img class="item-live-now-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/Australian-A-League-Logo.png">
+                                <span class="fw-bold fs-12 mt-2">Vô địch bóng đá Úc</span>
+                            </div>
+                                                        <div class="d-flex align-items-center">
+                                <span class="bg-accent px-2 py-1 rounded fw-bold">Live</span>
+                                <!-- <span class="text-end flex-1 fw-bold">2.134</span>
+                                <i class="fa fa-eye ms-3"></i> -->
+                                <span class="text-end flex-1 fw-bold item-match-time">96'</span>
+                            </div>
+                                                    </a>
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/1055_western-united.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Western United FC</span>
+                                <span class="fw-bold item-home-score">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/944.png" />
+                                <span class="flex-1 fw-bold ms-1">Melbourne Victory</span>
+                                <span class="fw-bold item-away-score"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Xem ngay</a>
+                    </div>
+                                                                            <div id="item-live-now-828265" class="item-live-now-match d-flex flex-column me-3" data-time="">
+                        <a href="https://khomuc.tv/truc-tiep-suwon-samsung-vs-gimcheon-sangmu-1700/" class="item-live-now-match__header d-flex flex-column justify-content-between p-2 text-decoration-none text-white" style="background-image: url(&#039;https://khomuc.tv/wp-content/uploads/2022/04/11.jpg&#039;);" data-wpel-link="internal">
+                            <div class="d-flex align-items-center">
+                                <img class="item-live-now-match__header__avatar" src="https://khomuc.tv/wp-content/uploads/2022/05/Logo-Kho-Nhai.jpg">
+                                <span class="fw-bold ms-2"></span>
+                            </div>
+                            <div class="d-flex flex-column justify-content-center align-items-center">
+                                <img class="item-live-now-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/03/K-League-logo.png">
+                                <span class="fw-bold fs-12 mt-2">K-League 1</span>
+                            </div>
+                                                        <div class="d-flex align-items-center">
+                                <span class="bg-accent px-2 py-1 rounded fw-bold">Live</span>
+                                <!-- <span class="text-end flex-1 fw-bold">2.134</span>
+                                <i class="fa fa-eye ms-3"></i> -->
+                                <span class="text-end flex-1 fw-bold item-match-time">41'</span>
+                            </div>
+                                                    </a>
+                        <a href="https://khomuc.tv/truc-tiep-suwon-samsung-vs-gimcheon-sangmu-1700/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2765.png" />
+                                <span class="flex-1 ms-1 fw-bold">Suwon Bluewings</span>
+                                <span class="fw-bold item-home-score">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2768.png" />
+                                <span class="flex-1 fw-bold ms-1">Sangju Sangmu FC</span>
+                                <span class="fw-bold item-away-score"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-suwon-samsung-vs-gimcheon-sangmu-1700/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Xem ngay</a>
+                    </div>
+                                                                            <div id="item-live-now-828266" class="item-live-now-match d-flex flex-column me-3" data-time="">
+                        <a href="https://khomuc.tv/truc-tiep-incheon-united-vs-daegu-17-05-2022-1730/" class="item-live-now-match__header d-flex flex-column justify-content-between p-2 text-decoration-none text-white" style="background-image: url(&#039;https://khomuc.tv/wp-content/uploads/2022/04/11.jpg&#039;);" data-wpel-link="internal">
+                            <div class="d-flex align-items-center">
+                                <img class="item-live-now-match__header__avatar" src="https://khomuc.tv/wp-content/uploads/2022/05/Logo-Kho-Nhai.jpg">
+                                <span class="fw-bold ms-2"></span>
+                            </div>
+                            <div class="d-flex flex-column justify-content-center align-items-center">
+                                <img class="item-live-now-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/03/K-League-logo.png">
+                                <span class="fw-bold fs-12 mt-2">K-League 1</span>
+                            </div>
+                                                        <div class="d-flex align-items-center">
+                                <span class="bg-accent px-2 py-1 rounded fw-bold">Live</span>
+                                <!-- <span class="text-end flex-1 fw-bold">2.134</span>
+                                <i class="fa fa-eye ms-3"></i> -->
+                                <span class="text-end flex-1 fw-bold item-match-time">11'</span>
+                            </div>
+                                                    </a>
+                        <a href="https://khomuc.tv/truc-tiep-incheon-united-vs-daegu-17-05-2022-1730/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2763.png" />
+                                <span class="flex-1 ms-1 fw-bold">Incheon United</span>
+                                <span class="fw-bold item-home-score">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-live-now-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2747.png" />
+                                <span class="flex-1 fw-bold ms-1">Daegu FC</span>
+                                <span class="fw-bold item-away-score"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-incheon-united-vs-daegu-17-05-2022-1730/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Xem ngay</a>
+                    </div>
+                                                                        <div class="item-live-now-match d-flex flex-column me-3" data-time="">
+                        <a href="https://khomuc.tv/mr-who-trai-nghiem-tat-tan-tat-n-h-a-c-a-i-hot-nhat-hien-nay/" class="item-live-now-match__header d-flex flex-column justify-content-between p-2 text-decoration-none text-white" style="background-image: url(&#039;&#039;); background-size: contain;" data-wpel-link="internal">
+                            <div class="d-flex align-items-center">
+                                <img class="item-live-now-match__header__avatar" src="https://khomuc.tv/wp-content/uploads/2022/05/Logo-Kho-Nhai.jpg">
+                                <span class="fw-bold ms-2">Mr Who</span>
+                            </div>
+                            <div class="d-flex justify-content-center align-items-center flex-grow-1">
+                                <span class="fw-bold fs-12">Soi kèo bóng đá hôm nay</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-incheon-united-vs-daegu-17-05-2022-1730/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="bg-white px-3 py-3 d-flex justify-content-center align-items-center item-live-now-match__excerpt">
+                                Mr Who khám phá nhà cái FIVE88                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/mr-who-trai-nghiem-tat-tan-tat-n-h-a-c-a-i-hot-nhat-hien-nay/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Xem ngay</a>
+                    </div>
+                                    </div>
+    </div>
+    <button class="button-scroll-left d-none">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-prev.svg">
+    </button>
+    <button class="button-scroll-right">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-next.svg">
+    </button>
+</section>
+<section class="home-hot-match container position-relative mt-5">
+    <span class="home-hot-match__title fs-24 d-flex">
+        <p><strong class="text-accent font-svn-outer fs-40 fs-sm-24">HOT MATCH</strong> <span class="ms-2 fs-24 fs-sm-14">các trận cầu đinh</span></p>
+        <div class="section-header-divider"></div>
+    </span>
+    <div class="list-hot-match-wrapper">
+        <div class="list-hot-match d-flex flex-1">
+                                                                                        <div class="item-hot-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="item-hot-match__header position-relative pt-4 d-flex flex-column align-items-center text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-hot-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/Australian-A-League-Logo.png">
+                            <span class="fw-bold fs-18 mt-2">Vô địch bóng đá Úc</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">17/05/2022</span>
+                                <span class="fw-bold">16:05</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="d-flex flex-column text-black text-decoration-none text-black" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/1055_western-united.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Western United FC</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/944.png" />
+                                <span class="flex-1 fw-bold ms-1">Melbourne Victory</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-western-united-fc-vs-melbourne-victory-17-05-2022-1605/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                                                            <div class="item-hot-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-southampton-vs-liverpool-18-05-2022-0145/" class="item-hot-match__header position-relative pt-4 d-flex flex-column align-items-center text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-hot-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">18/05/2022</span>
+                                <span class="fw-bold">01:45</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-southampton-vs-liverpool-18-05-2022-0145/" class="d-flex flex-column text-black text-decoration-none text-black" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/41.png" />
+                                <span class="flex-1 ms-1 fw-bold">Southampton</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/40.png" />
+                                <span class="flex-1 fw-bold ms-1">Liverpool</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-southampton-vs-liverpool-18-05-2022-0145/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                                                            <div class="item-hot-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-nottingham-forest-vs-sheffield-united-18-05-2022-0145/" class="item-hot-match__header position-relative pt-4 d-flex flex-column align-items-center text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-hot-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/02/download.png">
+                            <span class="fw-bold fs-18 mt-2">EFL Championship</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">18/05/2022</span>
+                                <span class="fw-bold">01:45</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-nottingham-forest-vs-sheffield-united-18-05-2022-0145/" class="d-flex flex-column text-black text-decoration-none text-black" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/65.png" />
+                                <span class="flex-1 ms-1 fw-bold">Nottingham Forest</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-hot-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/62.png" />
+                                <span class="flex-1 fw-bold ms-1">Sheffield Utd</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-nottingham-forest-vs-sheffield-united-18-05-2022-0145/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    </div>
+    </div>
+    <button class="button-scroll-left d-none">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-prev.svg">
+    </button>
+    <button class="button-scroll-right">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-next.svg">
+    </button>
+</section>
+<section class="home-result-match container position-relative mt-5">
+    <span class="home-result-match__title fs-24 d-flex">
+        <p><strong class="text-accent fs-40 font-svn-outer fs-sm-24">KẾT QUẢ</strong> <span class="ms-2 fs-40 fs-sm-24">72H</span></p>
+        <div class="section-header-divider"></div>
+    </span>
+    <div class="list-result-match-wrapper">
+        <div class="list-result-match d-flex flex-1">
+                                                
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-fc-anyang-vs-ansan-greeners-fc-2022-05-07-1130/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/K_League_Challenge.png">
+                            <span class="fw-bold fs-18 mt-2">K-League 2</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">07/11/2027</span>
+                                <span class="fw-bold">11:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-fc-anyang-vs-ansan-greeners-fc-2022-05-07-1130/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2748.png" />
+                                <span class="flex-1 ms-1 fw-bold">FC Anyang</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2758.png" />
+                                <span class="flex-1 fw-bold ms-1">Ansan Greeners</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-fc-anyang-vs-ansan-greeners-fc-2022-05-07-1130/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-juventus-vs-lazio-2022-05-17-0145/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/1200px-Serie_A_logo_2019.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">Serie A</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">17/05/2022</span>
+                                <span class="fw-bold">01:45</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-juventus-vs-lazio-2022-05-17-0145/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/496.png" />
+                                <span class="flex-1 ms-1 fw-bold">Juventus</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/487.png" />
+                                <span class="flex-1 fw-bold ms-1">Lazio</span>
+                                <span class="fw-bold"> 2</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-juventus-vs-lazio-2022-05-17-0145/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-newcastle-united-vs-arsenal-2022-05-17-0200/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">17/05/2022</span>
+                                <span class="fw-bold">02:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-newcastle-united-vs-arsenal-2022-05-17-0200/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/34.png" />
+                                <span class="flex-1 ms-1 fw-bold">Newcastle</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/42.png" />
+                                <span class="flex-1 fw-bold ms-1">Arsenal</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-newcastle-united-vs-arsenal-2022-05-17-0200/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-monterrey-women-vs-pachuca-women-17-05-2022-0905/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/doping-liga-mx-femenil.png">
+                            <span class="fw-bold fs-18 mt-2">Liga MX Femenil</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">17/05/2022</span>
+                                <span class="fw-bold">09:05</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-monterrey-women-vs-pachuca-women-17-05-2022-0905/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/14879.png" />
+                                <span class="flex-1 ms-1 fw-bold">Monterrey W</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/14881.png" />
+                                <span class="flex-1 fw-bold ms-1">Pachuca W</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-monterrey-women-vs-pachuca-women-17-05-2022-0905/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-getafe-vs-fc-barcelona-2022-05-16-0030/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/LaLiga_Santander_logo_stacked.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">LaLiga</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">00:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-getafe-vs-fc-barcelona-2022-05-16-0030/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/546.png" />
+                                <span class="flex-1 ms-1 fw-bold">Getafe</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/529.png" />
+                                <span class="flex-1 fw-bold ms-1">Barcelona</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-getafe-vs-fc-barcelona-2022-05-16-0030/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-hoa-binh-vs-quang-nam-16-05-2022-1530/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/Logo_hangNhi_2022-400x240-1.jpg">
+                            <span class="fw-bold fs-18 mt-2">Hạng Nhì Việt Nam</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">15:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-hoa-binh-vs-quang-nam-16-05-2022-1530/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/8042_sanna-khanh-hoa.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Hoa Binh</span>
+                                <span class="fw-bold">3 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/8050_quang-nam.jpg" />
+                                <span class="flex-1 fw-bold ms-1">Quang Nam</span>
+                                <span class="fw-bold"> 2</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-hoa-binh-vs-quang-nam-16-05-2022-1530/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-laos-vs-thailand-2022-05-16-1900/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/IMG_0622.png">
+                            <span class="fw-bold fs-18 mt-2">Sea Games 31</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">19:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-laos-vs-thailand-2022-05-16-1900/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/344_laos.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Laos</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/logo_country/108_thailand.png" />
+                                <span class="flex-1 fw-bold ms-1">Thailand</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-laos-vs-thailand-2022-05-16-1900/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-forte-taganrog-vs-chayka-2022-05-16-2330/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/FNL_2_logo_2021.png">
+                            <span class="fw-bold fs-18 mt-2">FNL 2</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">20:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-forte-taganrog-vs-chayka-2022-05-16-2330/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/14116.png" />
+                                <span class="flex-1 ms-1 fw-bold">Forte Taganrog</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/3983.png" />
+                                <span class="flex-1 fw-bold ms-1">Chayka</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-forte-taganrog-vs-chayka-2022-05-16-2330/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-gornik-polkowice-vs-resovi-rzeszow-2022-05-16-2300/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/197.png">
+                            <span class="fw-bold fs-18 mt-2">Liga 1 Poland</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">23:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-gornik-polkowice-vs-resovi-rzeszow-2022-05-16-2300/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/9132.png" />
+                                <span class="flex-1 ms-1 fw-bold">Górnik Polkowice</span>
+                                <span class="fw-bold">3 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/6951.png" />
+                                <span class="flex-1 fw-bold ms-1">Resovia Rzeszów</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-gornik-polkowice-vs-resovi-rzeszow-2022-05-16-2300/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-cagliari-vs-inter-milan-2022-05-16-0145-2/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/1200px-Serie_A_logo_2019.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">Serie A</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">01:45</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-cagliari-vs-inter-milan-2022-05-16-0145-2/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/490.png" />
+                                <span class="flex-1 ms-1 fw-bold">Cagliari</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/505.png" />
+                                <span class="flex-1 fw-bold ms-1">Inter</span>
+                                <span class="fw-bold"> 3</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-cagliari-vs-inter-milan-2022-05-16-0145-2/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-tigres-uanl-vs-cruz-azul-2022-05-16-0800/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/liga-mx-logo-9DADDBD676-seeklogo.com_.png">
+                            <span class="fw-bold fs-18 mt-2">VĐQG Mexico</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">08:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-tigres-uanl-vs-cruz-azul-2022-05-16-0800/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/14884.png" />
+                                <span class="flex-1 ms-1 fw-bold">Tigres UANL</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2295.png" />
+                                <span class="flex-1 fw-bold ms-1">Cruz Azul</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-tigres-uanl-vs-cruz-azul-2022-05-16-0800/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-malaysia-u23-vs-cambodia-u23-2022-05-16-1600/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/IMG_0622.png">
+                            <span class="fw-bold fs-18 mt-2">Sea Games 31</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">16:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-malaysia-u23-vs-cambodia-u23-2022-05-16-1600/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/478_malaysia.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Malaysia U23</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/10376_cambodia-u23.jpg" />
+                                <span class="flex-1 fw-bold ms-1">Cambodia U23</span>
+                                <span class="fw-bold"> 2</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-malaysia-u23-vs-cambodia-u23-2022-05-16-1600/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-sampdoria-vs-fiorentina-2022-05-16-2330/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/1200px-Serie_A_logo_2019.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">Serie A</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">16/05/2022</span>
+                                <span class="fw-bold">23:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-sampdoria-vs-fiorentina-2022-05-16-2330/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/498.png" />
+                                <span class="flex-1 ms-1 fw-bold">Sampdoria</span>
+                                <span class="fw-bold">4 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/502.png" />
+                                <span class="flex-1 fw-bold ms-1">Fiorentina</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-sampdoria-vs-fiorentina-2022-05-16-2330/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-azul-claro-numazu-vs-ehime-15-05-2022-1100/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/J3-league.png">
+                            <span class="fw-bold fs-18 mt-2">J3 League</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">11:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-azul-claro-numazu-vs-ehime-15-05-2022-1100/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/4314.png" />
+                                <span class="flex-1 ms-1 fw-bold">Azul Claro Numazu</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/318.png" />
+                                <span class="flex-1 fw-bold ms-1">Ehime FC</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-azul-claro-numazu-vs-ehime-15-05-2022-1100/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-nice-vs-lille-15-05-2022-0200/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/ligue1logo.png">
+                            <span class="fw-bold fs-18 mt-2">Ligue 1</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">02:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-nice-vs-lille-15-05-2022-0200/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/84.png" />
+                                <span class="flex-1 ms-1 fw-bold">Nice</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/79.png" />
+                                <span class="flex-1 fw-bold ms-1">Lille</span>
+                                <span class="fw-bold"> 2</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-nice-vs-lille-15-05-2022-0200/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-suwon-vs-jeju-united-15-05-2022-1220/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/03/K-League-logo.png">
+                            <span class="fw-bold fs-18 mt-2">K-League 1</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">12:20</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-suwon-vs-jeju-united-15-05-2022-1220/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2756.png" />
+                                <span class="flex-1 ms-1 fw-bold">Suwon City FC</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2761.png" />
+                                <span class="flex-1 fw-bold ms-1">Jeju United FC</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-suwon-vs-jeju-united-15-05-2022-1220/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-aston-villa-vs-crystal-palace-2022-05-15-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-aston-villa-vs-crystal-palace-2022-05-15-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/66.png" />
+                                <span class="flex-1 ms-1 fw-bold">Aston Villa</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/52.png" />
+                                <span class="flex-1 fw-bold ms-1">Crystal Palace</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-aston-villa-vs-crystal-palace-2022-05-15-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-adelaide-united-vs-central-coast-mariners-15-05-2022-1305/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/Australian-A-League-Logo.png">
+                            <span class="fw-bold fs-18 mt-2">Vô địch bóng đá Úc</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">13:05</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-adelaide-united-vs-central-coast-mariners-15-05-2022-1305/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/948.png" />
+                                <span class="flex-1 ms-1 fw-bold">Adelaide United</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/941.png" />
+                                <span class="flex-1 fw-bold ms-1">Central Coast Mariners</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-adelaide-united-vs-central-coast-mariners-15-05-2022-1305/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-leeds-united-vs-brighton-2022-05-15-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-leeds-united-vs-brighton-2022-05-15-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/63.png" />
+                                <span class="flex-1 ms-1 fw-bold">Leeds</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/51.png" />
+                                <span class="flex-1 fw-bold ms-1">Brighton</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-leeds-united-vs-brighton-2022-05-15-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-jeonbuk-motors-vs-gangwon-15-05-2022-1430/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/03/K-League-logo.png">
+                            <span class="fw-bold fs-18 mt-2">K-League 1</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">14:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-jeonbuk-motors-vs-gangwon-15-05-2022-1430/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2762.png" />
+                                <span class="flex-1 ms-1 fw-bold">Jeonbuk Motors</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/2746.png" />
+                                <span class="flex-1 fw-bold ms-1">Gangwon FC</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-jeonbuk-motors-vs-gangwon-15-05-2022-1430/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-wolverhampton-vs-norwich-city-2022-05-15-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-wolverhampton-vs-norwich-city-2022-05-15-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/39.png" />
+                                <span class="flex-1 ms-1 fw-bold">Wolves</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/71.png" />
+                                <span class="flex-1 fw-bold ms-1">Norwich</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-wolverhampton-vs-norwich-city-2022-05-15-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-singapore-woman-vs-myanmar-woman-15-05-2022-1600/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/IMG_0622.png">
+                            <span class="fw-bold fs-18 mt-2">Sea Games 31</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">16:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-singapore-woman-vs-myanmar-woman-15-05-2022-1600/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/483_singapore.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Singapore Woman</span>
+                                <span class="fw-bold">0 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/logo_country/162_myanmar.png" />
+                                <span class="flex-1 fw-bold ms-1">Myanmar Woman</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-singapore-woman-vs-myanmar-woman-15-05-2022-1600/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-napoli-vs-genoa-2022-05-15-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/1200px-Serie_A_logo_2019.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">Serie A</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-napoli-vs-genoa-2022-05-15-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/492.png" />
+                                <span class="flex-1 ms-1 fw-bold">Napoli</span>
+                                <span class="fw-bold">3 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/495.png" />
+                                <span class="flex-1 fw-bold ms-1">Genoa</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-napoli-vs-genoa-2022-05-15-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-indonesia-u23-vs-myanmar-u23-15-05-2022-1600/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/IMG_0622.png">
+                            <span class="fw-bold fs-18 mt-2">Sea Games 31</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">16:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-indonesia-u23-vs-myanmar-u23-15-05-2022-1600/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/484_indonesia.jpg" />
+                                <span class="flex-1 ms-1 fw-bold">Indonesia U23</span>
+                                <span class="fw-bold">3 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/logo_country/162_myanmar.png" />
+                                <span class="flex-1 fw-bold ms-1">Myanmar U23</span>
+                                <span class="fw-bold"> 1</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-indonesia-u23-vs-myanmar-u23-15-05-2022-1600/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-everton-vs-brentford-2022-05-15-2230/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">22:30</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-everton-vs-brentford-2022-05-15-2230/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/45.png" />
+                                <span class="flex-1 ms-1 fw-bold">Everton</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/55.png" />
+                                <span class="flex-1 fw-bold ms-1">Brentford</span>
+                                <span class="fw-bold"> 3</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-everton-vs-brentford-2022-05-15-2230/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-tottenham-vs-burnley-2022-05-15-1800/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">18:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-tottenham-vs-burnley-2022-05-15-1800/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/47.png" />
+                                <span class="flex-1 ms-1 fw-bold">Tottenham</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/44.png" />
+                                <span class="flex-1 fw-bold ms-1">Burnley</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-tottenham-vs-burnley-2022-05-15-1800/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-ac-milan-vs-atalanta-2022-05-15-2300/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/01/1200px-Serie_A_logo_2019.svg_.png">
+                            <span class="fw-bold fs-18 mt-2">Serie A</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">23:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-ac-milan-vs-atalanta-2022-05-15-2300/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/489.png" />
+                                <span class="flex-1 ms-1 fw-bold">AC Milan</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/499.png" />
+                                <span class="flex-1 fw-bold ms-1">Atalanta</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-ac-milan-vs-atalanta-2022-05-15-2300/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-viet-nam-u23-vs-timor-leste-u23-2022-15-05-1900/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/05/IMG_0622.png">
+                            <span class="fw-bold fs-18 mt-2">Sea Games 31</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">19:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-viet-nam-u23-vs-timor-leste-u23-2022-15-05-1900/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/logo_country/118_vietnam.png" />
+                                <span class="flex-1 ms-1 fw-bold">Việt Nam U23</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://apiv3.apifootball.com/badges/481_timor-leste.jpg" />
+                                <span class="flex-1 fw-bold ms-1">Timor Leste U23</span>
+                                <span class="fw-bold"> 0</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-viet-nam-u23-vs-timor-leste-u23-2022-15-05-1900/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-watford-vs-leicester-city-2022-15-05-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-watford-vs-leicester-city-2022-15-05-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/38.png" />
+                                <span class="flex-1 ms-1 fw-bold">Watford</span>
+                                <span class="fw-bold">1 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/46.png" />
+                                <span class="flex-1 fw-bold ms-1">Leicester</span>
+                                <span class="fw-bold"> 5</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-watford-vs-leicester-city-2022-15-05-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    
+                                        <div class="item-result-match d-flex flex-column me-3">
+                        <a href="https://khomuc.tv/truc-tiep-westham-united-vs-manchester-city-2022-05-15-2000/" class="item-result-match__header position-relative d-flex flex-column align-items-center pt-4 text-decoration-none text-white" data-wpel-link="internal">
+                            <img class="item-result-match__league-icon" src="https://khomuc.tv/wp-content/uploads/2022/04/premier-league-logo-preview.png">
+                            <span class="fw-bold fs-18 mt-2">Ngoại Hạng Anh</span>
+                           
+                            <div class="d-flex align-items-center position-absolute bottom-0 left-0 right-0 justify-content-between w-100 p-3">
+                                <span class="fw-bold">15/05/2022</span>
+                                <span class="fw-bold">20:00</span>
+                            </div>
+                        </a>
+                        <a href="https://khomuc.tv/truc-tiep-westham-united-vs-manchester-city-2022-05-15-2000/" class="d-flex flex-column text-black text-decoration-none" data-wpel-link="internal">
+                            <div class="d-flex align-items-center bg-white px-3 py-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/48.png" />
+                                <span class="flex-1 ms-1 fw-bold">West Ham</span>
+                                <span class="fw-bold">2 </span>
+                            </div>
+                            <div class="d-flex align-items-center bg-white px-3 pb-3">
+                                <img class="item-result-match__team-logo" alt="Logo" src="https://media.api-sports.io/football/teams/50.png" />
+                                <span class="flex-1 fw-bold ms-1">Manchester City</span>
+                                <span class="fw-bold"> 2</span>
+                            </div>
+                        </a>
+
+                        <a href="https://khomuc.tv/truc-tiep-westham-united-vs-manchester-city-2022-05-15-2000/" class="bg-accent text-white text-center item-live-now-match__footer py-2 fw-bold text-decoration-none" data-wpel-link="internal">Chi tiết</a>
+                    </div>
+                                    </div>
+    </div>
+    <button class="button-scroll-left d-none">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-prev.svg">
+    </button>
+    <button class="button-scroll-right">
+        <img src="/wp-content/themes/khomuctv/assets/images/ic-next.svg">
+    </button>
+</section>
+<section class="container mt-5">
+    <span class="home-live-now__title fs-24 d-flex">
+        <p><strong class="text-accent fs-40 font-svn-outer fs-sm-24">SOI KÈO BÓNG ĐÁ HÔM NAY</strong></p>
+        <div class="section-header-divider"></div>
+    </span>
+
+            <div class="list-hot-news" id="home-list-post-13">
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-crystal-palace-01h45-ngay-20-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo Everton vs Crystal Palace, 01h45 ngày 20/5 – Ngoại Hạng Anh</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-thai-lan-vs-u23-indonesia-16h00-ngay-19-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo U23 Thái Lan vs U23 Indonesia, 16h00 ngày 19/5 – Sea Games</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-viet-nam-vs-u23-malaysia-19h00-ngay-19-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo U23 Việt Nam vs U23 Malaysia, 19h00 ngày 19/5 – Sea Games</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-southampton-vs-liverpool-01h45-ngay-18-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-southampton-vs-liverpool-01h45-ngay-18-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-southampton-vs-liverpool-01h45-ngay-18-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-southampton-vs-liverpool-01h45-ngay-18-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-southampton-vs-liverpool-01h45-ngay-18-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-southampton-vs-liverpool-01h45-ngay-18-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo Southampton vs Liverpool, 01h45 ngày 18/5 – Ngoại Hạng Anh</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-newcastle-vs-arsenal-02h00-ngay-17-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo Newcastle vs Arsenal, 02h00 ngày 17/5 – Ngoại Hạng Anh</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-lao-vs-u23-thai-lan-19h00-ngay-16-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo U23 Lào vs U23 Thái Lan, 19h00 ngày 16/5 – Sea Games 31</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-indonesia-vs-u23-myanmar-16h00-ngay-15-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo U23 Indonesia vs U23 Myanmar, 16h00 ngày 15/5 – Sea Games 31</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-u23-timor-leste-vs-u23-viet-nam-19h00-ngay-15-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo U23 Timor Leste vs U23 Việt Nam, 19h00 ngày 15/5 – Sea Games 31</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/soi-keo-everton-vs-brentford-22h30-ngay-15-5/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-brentford-22h30-ngay-15-5-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="soi-keo-everton-vs-brentford-22h30-ngay-15-5-1" srcset="https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-brentford-22h30-ngay-15-5-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-brentford-22h30-ngay-15-5-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/soi-keo-everton-vs-brentford-22h30-ngay-15-5-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Soi kèo Everton vs Brentford, 22h30 ngày 15/5 – Ngoại Hạng Anh</div>
+                </a>
+                    </div>
 
 
-*@[COLOR red]KHAMPHA Channel[/COLOR]|m3uhttp://pastebin.com/raw/MDyHF0F6
+        <div class="text-white d-none" id="schedule-match-loading">Đang tải dữ liệu .... </div>
 
-*@[COLOR red]8BONGDA.COM[/COLOR]|http://www.8bongda.com/xem-bong-da-truc-tuyen/link-sopcast/||http://anhduongtruyenthong.com.vn/wp-content/themes/anhduong/img/bongda8.jpg| *@HungTranSport|m3uhttp://textuploader.com/d00fq/raw *@ChanhHungChannel|m3uhttp://textuploader.com/djzjx/raw
-*@CristianoTran Sport|m3uhttp://textuploader.com/d46tw/raw *@Livefootballol.me Acestream|http://www.livefootballol.me/acestream-channel-list-2017.html||https://s6.postimg.org/c5x7330r5/livefootballollogo.png|
-*@Livefootballol.me Sopcast|http://www.livefootballol.me/sopcast-channel-list.html||https://s6.postimg.org/c5x7330r5/livefootballollogo.png|
+        <div class="d-flex justify-content-center mt-3">
+            <a href="https://khomuc.tv/soi-keo-bong-da/" class="text-white text-decoration-none btn-load-more bg-accent rounded d-flex align-items-center px-3 py-1" data-wpel-link="internal">
+                <span class="fs-16 text-nowrap">Xem thêm</span>
+                <img class="btn-load-more__icon ms-2" src="https://khomuc.tv/wp-content/themes/khomuctv/icons/ic_load_more.svg"></img>
+            </a>
+        </div>
+
+
+    
+</section>
+
+
+<section class="container mt-5">
+    <span class="home-live-now__title fs-24 d-flex">
+        <p><strong class="text-accent font-svn-outer fs-40 fs-sm-24">TIN BÓNG ĐÁ</strong></p>
+        <div class="section-header-divider"></div>
+    </span>
+
+            <div class="list-hot-news" id="home-list-post-14">
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/hiep-phu-bong-da-bao-nhieu-phut-quy-dinh-ve-hiep-phu/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T145418.983.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Hiệp phụ bóng đá bao nhiêu phút" srcset="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T145418.983.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T145418.983-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T145418.983-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Hiệp phụ bóng đá bao nhiêu phút? Quy định về hiệp phụ là gì?</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/gegenpressing-nghia-la-gi-cach-van-hanh-gegenpressing/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T105610.770.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Gegenpressing nghĩa là gì" srcset="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T105610.770.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T105610.770-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-16T105610.770-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Gegenpressing nghĩa là gì? Cách vận hành Gegenpressing</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/gang-tay-vang-la-gi-giai-thuong-nay-co-tu-bao-gio/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/gang-tay-vang-la-gi-giai-thuong-nay-co-tu-bao-gio-3.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Găng Tay Vàng là gì" srcset="https://khomuc.tv/wp-content/uploads/2022/05/gang-tay-vang-la-gi-giai-thuong-nay-co-tu-bao-gio-3.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/gang-tay-vang-la-gi-giai-thuong-nay-co-tu-bao-gio-3-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/gang-tay-vang-la-gi-giai-thuong-nay-co-tu-bao-gio-3-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Găng Tay Vàng là gì? Giải thưởng này có từ bao giờ?</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/football-pitch-la-gi-nhung-dieu-phai-biet-ve-football-pitch/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/football-pitch-la-gi-nhung-dieu-phai-biet-ve-football-pitch-5.jpg" class="hot-news-item__thumbnail wp-post-image" alt="" srcset="https://khomuc.tv/wp-content/uploads/2022/05/football-pitch-la-gi-nhung-dieu-phai-biet-ve-football-pitch-5.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/football-pitch-la-gi-nhung-dieu-phai-biet-ve-football-pitch-5-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/football-pitch-la-gi-nhung-dieu-phai-biet-ve-football-pitch-5-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Football Pitch là gì? Những điều phải biết về Football Pitch</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/fan-real-madrid-goi-la-gi-ten-goi-nay-bat-nguon-tu-dau/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T173221.332.jpg" class="hot-news-item__thumbnail wp-post-image" alt="" srcset="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T173221.332.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T173221.332-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T173221.332-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Fan Real Madrid gọi là gì? Tên gọi này bắt nguồn từ đâu?</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/fan-barca-goi-la-gi-nguon-goc-cua-ten-goi-nay-tu-dau/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/fan-barca-goi-la-gi-nguon-goc-cua-ten-goi-nay-tu-dau-1.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Fan Barca gọi là gì" srcset="https://khomuc.tv/wp-content/uploads/2022/05/fan-barca-goi-la-gi-nguon-goc-cua-ten-goi-nay-tu-dau-1.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/fan-barca-goi-la-gi-nguon-goc-cua-ten-goi-nay-tu-dau-1-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/fan-barca-goi-la-gi-nguon-goc-cua-ten-goi-nay-tu-dau-1-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Fan barca gọi là gì, nguồn gốc của tên gọi này từ đâu?</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/el-clasico-la-gi-tai-sao-no-la-tran-dau-hap-dan-nhat-hanh-tinh/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T150100.936.jpg" class="hot-news-item__thumbnail wp-post-image" alt="EL Clasico là gì" srcset="https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T150100.936.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T150100.936-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/Thiet-ke-chua-co-ten-2022-05-11T150100.936-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">EL Clasico là gì? Tại sao nó là trận đấu hấp dẫn nhất hành tinh</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/doi-hinh-barca-manh-nhat-moi-thoi-dai-ca-chau-au-phai-rung-minh/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-barca-manh-nhat-moi-thoi-dai-ca-chau-au-phai-rung-minh-3.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Đội hình Barca mạnh nhất mọi thời đại" srcset="https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-barca-manh-nhat-moi-thoi-dai-ca-chau-au-phai-rung-minh-3.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-barca-manh-nhat-moi-thoi-dai-ca-chau-au-phai-rung-minh-3-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-barca-manh-nhat-moi-thoi-dai-ca-chau-au-phai-rung-minh-3-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Đội hình barca mạnh nhất mọi thời đại: Cả châu Âu phải rùng mình</div>
+                </a>
+                                            <a class="hot-news-item d-flex align-items-center text-decoration-none" href="https://khomuc.tv/doi-hinh-huyen-thoai-brazil/" data-wpel-link="internal">
+                    <div class="flex-1">
+                        <img width="800" height="500" src="https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-huyen-thoai-brazil-3.jpg" class="hot-news-item__thumbnail wp-post-image" alt="Đội hình huyền thoại Brazil Dida" srcset="https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-huyen-thoai-brazil-3.jpg 800w, https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-huyen-thoai-brazil-3-300x188.jpg 300w, https://khomuc.tv/wp-content/uploads/2022/05/doi-hinh-huyen-thoai-brazil-3-768x480.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                    </div>
+                    <div class="text-white hot-news-item__title flex-1-5 ms-2">Đội hình huyền thoại Brazil: Cả thế giới phải run sợ</div>
+                </a>
+                    </div>
+
+
+        <div class="text-white d-none" id="schedule-match-loading">Đang tải dữ liệu .... </div>
+
+        <div class="d-flex justify-content-center mt-3">
+            <a href="https://khomuc.tv/tin-tuc/" class="text-white text-decoration-none btn-load-more bg-accent rounded d-flex align-items-center px-3 py-1" data-wpel-link="internal">
+                <span class="fs-16 text-nowrap">Xem thêm</span>
+                <img class="btn-load-more__icon ms-2" src="https://khomuc.tv/wp-content/themes/khomuctv/icons/ic_load_more.svg"></img>
+            </a>
+        </div>
+
+
+    
+</section>
+
+<section class="home-content container mt-5">
+	<div class="divider mb-5 w-100"></div>
+
+	<div class="d-flex flex-md-row flex-column">
+		<div class="flex-1 home-content__text">
+			<h1>Link Trực Tiếp Bóng Đá &#8211; Xem Đá Bóng Miễn Phí Full HD</h1>
+<p>Khomuc.tv là thương hiệu chuyên về <strong>trực tiếp bóng đá</strong> miễn phí trên mạng. Tuy vừa mới ra đời nhưng Khomuc TV đang dần trên đà khẳng định tên tuổi và thương hiệu của mình bởi cung cấp các trận đấu <strong>bóng đá trực tuyến</strong> chất lượng cao với các giải đấu hàng đầu thế giới.</p>
+<p style="text-align: left;">Đây được xem là trang <strong>web trực tuyến bóng đá</strong> không chỉ có chuyên môn tốt về chất lượng kênh phát mà thái độ phục vụ và trải nghiệm thực tế vô cùng tốt.</p>
+<p>Link dự phòng vào Khomuctv:</p>
+<p>Link 1: <a href="https://khomuc1.com/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">Khomuc1.com</a></p>
+<p>Link 2: <a href="https://khomuc2.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">Khomuc2.com</a></p>
+<p>Link 3: <a href="http://khomuc3.com" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">Khomuc3.com</a></p>
+<p>&nbsp;</p>
+<h2>Khomuc.tv là gì?</h2>
+<p><iframe loading="lazy" title="Khô Mực TV - Xem bóng siêu mượt, cá cược xuyên đêm" width="500" height="281" src="https://www.youtube.com/embed/8tIricXrFPc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Nhu cầu <strong>xem bóng đá</strong> của người Việt Nam vô cùng lớn và chưa có dấu hiệu giảm nhiệt. Đặc biệt trong tình hình đại dịch Covid-19 hiện nay, không phải ở đâu cũng có thể cho khán giả ra sân <strong>xem trực tiếp đá banh</strong> hay tụ tập tại các điểm cà phê.</p>
+<p>Chính vì thế, việc <strong>xem bóng đá online</strong> qua máy tính và điện thoại di động thông qua những nền tảng trả phí hoặc miễn phí, cụ thể là những website cung cấp <strong>link xem bóng đá trực tuyến</strong> miễn phí là giải pháp tốt nhất hiện nay.</p>
+<p>Nhận thấy được nhu cầu ngày càng phát triển theo dõi của bộ môn thể thao vua, chúng tôi quyết định tạo nên và xây dựng trang xem đá banh mới nhất là Khomuc TV.</p>
+<p>Dù mới ra đời nhưng Khomuc Tv luôn luôn học hỏi, và luôn hoàn thiện bản thân cũng như không ngừng nâng cao chất lượng đường truyền giúp các bạn có được trải nghiệm tốt nhất.</p>
+<p>Với Khô mực TV, người dùng không đơn thuần là chỉ xem bóng đá trực tuyến miễn phí, mà đó là trải nghiệm bóng đá tại nhà một cách chuyên nghiệp mà đơn giản nhất.</p>
+<p>&nbsp;</p>
+<div id="attachment_102" style="width: 610px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-102" loading="lazy" class="wp-image-102" src="https://khomuc.tv/wp-content/uploads/2021/11/gioi-thieu-khomuctv.jpg" alt="Giới Thiệu khô Mực TV" width="600" height="450" srcset="https://khomuc.tv/wp-content/uploads/2021/11/gioi-thieu-khomuctv.jpg 800w, https://khomuc.tv/wp-content/uploads/2021/11/gioi-thieu-khomuctv-300x225.jpg 300w, https://khomuc.tv/wp-content/uploads/2021/11/gioi-thieu-khomuctv-768x576.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-102" class="wp-caption-text">Giới Thiệu khô Mực TV</p></div>
+<p>&nbsp;</p>
+<h2>Khô Mực TV mang lại lợi ích gì?</h2>
+<p>Sau đây là những lợi ích mà Khô Mực TV đem lại cho khán giả:</p>
+<p>&nbsp;</p>
+<h3>Link Trực tiếp bóng đá HD miễn phí</h3>
+<p>Như đã nói ở trên, nhiệm vụ chính của Khomuc TV là cung cấp cho người dùng những nền tảng <strong>xem bóng đá trực tuyến</strong> miễn phí theo cách đơn giản và chuyên nghiệp nhất.</p>
+<p>Những gì tốt đẹp và thân thiện với người dùng nhất sẽ được chúng tôi tích hợp và gửi đến quý khán giả.</p>
+<p>Khomuc TV luôn muốn khán giả có thể theo dõi bóng đá với chi phí rẻ nhất. Ngoài việc đóng phí internet theo tháng, bạn sẽ không cần đóng thêm 1 khoản phí nào khi xem bóng đá trực tiếp tại chúng tôi.</p>
+<p>&nbsp;</p>
+<h3>Các bài viết soi kèo, nhận định bóng đá chuẩn xác từ chuyên gia</h3>
+<p>Ngoài ra, Khomuc TV còn rất biết chiều lòng tất cả các khán giả. Nhận biết được nhu cầu cá độ và kiếm tiền trong ngành công nghiệp bạc tỷ ngày càng gia tăng. Chúng tôi tích hợp thêm chuyên mục soi kèo, nhận định bóng đá cho tất cả người xem có thể theo dõi hoặc có nhu cầu tìm kiếm thông tin để cá cược.</p>
+<p>Những bài viết soi kèo, nhận định đều được chúng tôi đầu tư một cách vô cùng chỉn chu. Bởi sở hữu trong tay hàng loạt những chuyên gia phân tích kèo và nhận định với nhiều năm kinh nghiệm. Đây chắc chắn sẽ là mục khiến người xem vô cùng thích thú bên cạnh mục chính là phát những trận đấu bóng đá miễn phí.</p>
+<p>&nbsp;</p>
+<h3>Những nhà cái uy tín nên cá cược bóng đá</h3>
+<p>Ngoài việc đưa ra các lời khuyên và nhận định về kèo, chúng tôi còn là đối tác của những nhà cái uy tín tại Việt Nam.</p>
+<p>Trong quá trình xem đá bóng tại Khô Mực, các bạn sẽ thấy có rất nhiều nhà cái được quảng cáo trên website của chúng tôi. Đó là các đối tác được chúng tôi tuyển chọn và phân tích kỹ lưỡng nhằm mục đích đem lại sự an toàn và tin cậy cho người chơi.</p>
+<p>KhomucTV cam kết chỉ làm việc với các nhà cái thỏa mãn các tiêu chí sau đây:</p>
+<ul>
+<li>Nạp rút nhanh chóng dưới 30s</li>
+<li>Tỷ lệ hoàn cược cao</li>
+<li>Thường xuyên có chương trình khuyến mãi</li>
+</ul>
+<p>Ngoài ra, Khoc</p>
+<p>&nbsp;</p>
+<h2>Xem trực tiếp bóng đá tại Khomuc có gì tốt hơn các kênh khác</h2>
+<p>&nbsp;</p>
+<h3>Đường truyền ổn định</h3>
+<p>Bóng đá là bộ môn thể thao vua và không thể thiếu đi sự giải trí. Nhưng chắc chắn mọi người sẽ vô cùng bực mình khi phải xem những trận bóng gián đoạn, hình ảnh thì mờ tịt phải không nào?</p>
+<p>Bởi vì khi xuất hiện những lỗi này thì khán giả chắc chắn đang xem ở những trang Website có đường truyền không ổn định hoặc được đầu tư vào cơ sở hạ tầng khá ít.</p>
+<p>Chính vì thế những trang như thế này sẽ bị những người hâm mộ “say bye”.</p>
+<p>Về chúng tôi, Khomuc TV xin cam đoan với quý khán giả chúng tôi không có gì ngoài sự chuyên nghiệp và chất lượng.</p>
+<p>Được đầu tư cơ sở hạ tầng lên đến cả hàng chục tỷ đồng, thế nên chúng tôi sẽ gửi đến các bạn những hình ảnh chân thật và chất lượng nhất khi xem bóng tại Khomuc TV.</p>
+<p>&nbsp;</p>
+<h3>Đầy đủ các giải đấu lớn nhỏ trên thế giới</h3>
+<p>Chúng tôi sẽ cung cấp đến khán giả toàn bộ những giải đấu hấp dẫn nhất trên thế giới. Trong đó phải kể đến 5 giải đấu hấp dẫn nhất hành tinh bao gồm: Bundesliga, Ligue 1, La Liga, Premier League và Serie A.</p>
+<p>&nbsp;</p>
+<div id="attachment_103" style="width: 610px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-103" loading="lazy" class="wp-image-103" src="https://khomuc.tv/wp-content/uploads/2021/11/cac-giai-dau-kho-muc-tv-dang-phat-truc-tuyen.jpg" alt="Các giải đấu khô mực TV đang trực tiếp" width="600" height="450" srcset="https://khomuc.tv/wp-content/uploads/2021/11/cac-giai-dau-kho-muc-tv-dang-phat-truc-tuyen.jpg 800w, https://khomuc.tv/wp-content/uploads/2021/11/cac-giai-dau-kho-muc-tv-dang-phat-truc-tuyen-300x225.jpg 300w, https://khomuc.tv/wp-content/uploads/2021/11/cac-giai-dau-kho-muc-tv-dang-phat-truc-tuyen-768x576.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-103" class="wp-caption-text">Khô Mực TV trực tuyến đa dạng mọi giải đấu</p></div>
+<p>&nbsp;</p>
+<p>Ngoài ra, chúng tôi còn mang về cho các tín đồ “bào cỏ” những giải đấu nhỏ ở nhiều quốc gia phục vụ cho anh em cá độ.</p>
+<p>Chất lượng hình ảnh và âm thanh tại 5 giải đấu được chúng tôi kể trên sẽ không khác gì khi khán giả theo dõi trên các phương tiện được trả phí. Nhưng khi truy cập vào Khomuc TV, tất cả đều miễn phí từ A-Z.</p>
+<p>&nbsp;</p>
+<h3>Có BLV chuyên nghiệp, tư vấn kèo cho người xem</h3>
+<p>Phần bình luận của Khomuc TV có chuyên môn vô cùng cao và liên tục mang lại tiếng cười. Thay vì phần bình luận khô cứng, phần bình luận trực tiếp tại Khomuc mang đậm tính giải trí nhưng không thiếu đi những thông tin quan trọng cho người xem.</p>
+<p>Ngoài ra, nếu là một người có sở thích với bộ môn cá cược, người chơi có thể tham gia cược cùng với Khomuc TV. Để tăng được sự uy tín và chuyên nghiệp của mình, Khomuc cũng có liên kết với các nhà cái hàng đầu Việt Nam.</p>
+<p>Người xem có thể truy cập và trải nghiệm xem bóng đá tại Khomuc TV trên tất cả các thiết bị như điện thoại, máy tính, laptop, ipad,&#8230; Chỉ cần có kết nối Internet thì người xem có thể xem được.</p>
+<p>&nbsp;</p>
+<h3>Xem bóng đá Miễn phí</h3>
+<p>Điều quan trọng bậc nhất khi người xem theo dõi các trận đấu bóng đá tại Khomuc TV là việc trải nghiệm bóng đá hoàn toàn miễn phí tại đây.</p>
+<p>Phải nói rằng bạn có thể xem tất cả các trận bóng với chất lượng không khác gì K+ nhưng hoàn toàn miễn phí.</p>
+<p>Miễn phí nhưng không hề kém chất lượng. Từ hình ảnh cho đến âm thanh cũng như tốc độ đường truyền đều được tối ưu và đầu tư một cách chỉn chu nhất.</p>
+<h3>Nhiều show bóng đá độc quyền</h3>
+<p>Điểm đặc biệt ở Khomuc mà không trang web trực tiếp bóng đá nào có là Khomuc có hẳn các show đá bóng độc quyền với sự góp mặt của BLV nổi tiếng Anh Quân.</p>
+<p>Các video, nội dung được chiếu trước trận 10 &#8211; 15 phút trực tiếp tại Khomuc.tv. Nhằm giúp cho khán giả có thêm cái nhìn khách quan và chính xác nhất, cũng như cung cấp thêm các thông tin bên lề cho các trận đấu chuẩn bị diễn ra.</p>
+<p>Nội dung của các show được biên soạn bởi đội ngũ content của Khomuc và được tư vấn bởi các BLV chuyên nghiệp. Ví dụ như:</p>
+<h4>Nhận định bóng đá trước trận:</h4>
+<p><iframe loading="lazy" title="Khô Mực TV -  Nhận định, dự đoán Soi kèo nhà cái Chelsea vs Arsenal (1h45, 21/4)" width="500" height="281" src="https://www.youtube.com/embed/hW9fi3oTmZQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Video sẽ xoay quanh nhận định của các chuyên gia tại Khomuc về trận đấu sắp tới. Khán giả sẽ có thêm các thông tin về lịch sự đối đầu, phân tích năng lực và đội hình của 2 bên.</p>
+<h4>Soi kèo nhà cái</h4>
+<p><iframe loading="lazy" title="Khô Mực TV -  Soi kèo nhà cái siêu chuẩn Chelsea vs Arsenal (1h45, 21/4)" width="500" height="281" src="https://www.youtube.com/embed/JmU4w-FPsOs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Trong video nhà cái, ngoài việc đưa ra phân tích chuyên sâu về đội hình 2 bên, Khomuc còn đưa ra khuyến nghị về việc bắt kèo cá cược của trận đấu.</p>
+<p>Các kèo tài xỉu, châu á và châu Âu sẽ được Khô Mực phân tích rõ ràng, minh bạch và chuyên môn nhất có thể để góp phần đem lại chiến thắng cho các bạn.</p>
+<h4>Giới thiệu người nổi tiếng trong bóng đá</h4>
+<p><iframe loading="lazy" title="&quot;Thầy Ông Nội&quot; Ralf Rangnick là ai - ảnh hưởng như thế nào đến MU hôm nay?" width="500" height="281" src="https://www.youtube.com/embed/UCy3YWCNsrU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Nội dung cuối cùng trong show độc quyền của Khomuc chính là video giới thiệu những người nổi tiếng, những nhân vật cộm cán trong làng túc cầu.</p>
+<h3>Giao diện được thiết kế chuẩn UX/UI, thỏa mãn trải nghiệm người xem</h3>
+<p>Thêm 1 điều quan trọng, thiết kế của Khomuc TV rất thân thiện với người dùng. Được đầu tư kỹ càng và qua nhiều giai đoạn kiểm tra để đưa ra một phiên bản tốt nhất đến người xem.</p>
+<p>Phần UX/UI được chúng tôi đầu tư rất nhiều tiền để người xem có trải nghiệm thoải mái nhất khi truy cập.</p>
+<h2>Các giải đấu được trực tiếp đá bóng tại Khomuc.live</h2>
+<p>Sau đây là các giải đấu được <strong>Tructiepbongda</strong> tại Khô Mực TV:</p>
+<h3>Trực tiếp bóng đá Ngoại Hạng Anh:</h3>
+<p><strong>Trực tiếp bóng đá Anh</strong> hay <strong>trực tuyến ngoại hạng anh</strong> là giải đấu không thể thiếu tại KhomucTV.</p>
+<p>Đây được xem là giải đấu hấp dẫn nhất và được nhiều người quan tâm nhất tại Việt Nam, đặc biệt là khi Khomuc <strong>trực tiếp đá bóng MU</strong> &#8211; Đội bóng có nhiều fan nhất Việt Nam.</p>
+<h3>Trực tiếp bóng đá cúp C1:</h3>
+<p>Hấp dẫn không kém NHA chính là cúp C1 &#8211; trực tiếp champion league.</p>
+<p>C1 được xem là siêu cúp CLB trên toàn thế giới, nơi các đội bóng hàng đầu trành tài. Và hiển hiên, Khomuc đều <strong>trực tiếp C1</strong> đầy đủ, không thiếu trận nào.</p>
+<h3>Trực tiếp bóng đá La Liga &#8211; Tây Ban Nha</h3>
+<p>La Liga cũng là một giải đấu hấp dẫn không kém ở thời điểm hiện tại.</p>
+<p>Mặc dù không còn Messi hay Ronaldo nữa, nhưng sức hút của các trận đấu <strong>trực tiếp La Liga</strong> cũng không vì thế mà giảm nhiệt.</p>
+<h3>Trực tiếp bóng đá V League</h3>
+<p>Mặc dù so với thế giới, Vleague chỉ là một giải đấu nhỏ, tuy nhiên, bóng đá Việt Nam vẫn nhận được sự quan tâm rất lớn từ người dân trong nước.</p>
+<h3>Trực tiếp bóng đá Pháp, Ligue 1</h3>
+<p>Các trận đấu trực tuyến PSG hay có tường thuật trực tiếp Messi thi đấu luôn thu hút số lượng lớn người tham gia.</p>
+<h2>Cách xem trực tiếp bóng đá tại Khomuc.tv</h2>
+<p>Tín đồ bóng đá sẽ cần thực hiện theo 3 bước sau để có thể xem bóng đá qua kênh Khomuc TV:</p>
+<ul>
+<li><strong><span style="text-decoration: underline;">Bước 1</span>:</strong> Người xem cần 1 thiết bị thông minh có kết nối internet. Có thể là điện thoại di động, máy tính bảng, laptop hay tv thông minh…</li>
+<li><strong><span style="text-decoration: underline;">Bước 2</span></strong>: Mở trình duyệt Chrome và gõ “Khomuc TV” vào ô tìm kiếm để có trải nghiệm tốt nhất.</li>
+<li><strong><span style="text-decoration: underline;">Bước 3</span></strong>: Truy cập vào website của Khomuc TV. Mọi trận đấu đều được sắp xếp theo hệ thống tại trang chủ, người xem tùy chọn nội dung muốn xem và thưởng thức bóng đá miễn phí.</li>
+</ul>
+<p>&nbsp;</p>
+<div id="attachment_104" style="width: 610px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-104" loading="lazy" class="wp-image-104" src="https://khomuc.tv/wp-content/uploads/2021/11/cach-xem-truc-tiep-bong-da-tai-khomuctv.jpg" alt="Cách xem trực tiếp bóng đá tại khô mực TV" width="600" height="450" srcset="https://khomuc.tv/wp-content/uploads/2021/11/cach-xem-truc-tiep-bong-da-tai-khomuctv.jpg 800w, https://khomuc.tv/wp-content/uploads/2021/11/cach-xem-truc-tiep-bong-da-tai-khomuctv-300x225.jpg 300w, https://khomuc.tv/wp-content/uploads/2021/11/cach-xem-truc-tiep-bong-da-tai-khomuctv-768x576.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-104" class="wp-caption-text">Xem trực tuyến bóng đá tại Khô Mực TV dễ dàng</p></div>
+<p>&nbsp;</p>
+<h2>Các câu hỏi thường gặp khi xem bóng đá tại Khomuc.tv</h2>
+<p>Sau đây là những câu hỏi mà người xem g</p>
+<h3>Chất lượng kênh của Khomuc TV có được đảm bảo?</h3>
+<p>Vấn đề chất lượng của Khomuc TV luôn khiến người xem hài lòng:</p>
+<p>+ Chất lượng hình ảnh quá chuẩn, rõ ràng tới từng chi tiết. Không hề bị nhòe, mờ hay vỡ hình.</p>
+<p>+ Âm thanh sống động mang đến cho khán giả, người xem không gian chân thực nhất.</p>
+<p>+ Đường truyền quá ổn định, không giật, lag dù có quá nhiều người xem cùng lúc.</p>
+<p>&nbsp;</p>
+<h3>Có phải Khomuc TV chỉ có các đường link phát trực tiếp bóng đá?</h3>
+<p>Ngoài các đường link phát trực tiếp bóng đá luôn được cập nhật nhanh nhất, Khomuc TV trực tiếp bóng đá còn mang đến cho khán giả rất nhiều thông tin thể thao thú vị khác</p>
+<p>Người xem có thể cập nhật thông tin về lịch thi đấu, tình trạng chấn thương của các cầu thủ, các bản hợp đồng chuyển nhượng đắt giá…chỉ với một địa chỉ là Khomuc TV.</p>
+<p>&nbsp;</p>
+<h3>Các thông tin thể thao của Khomuc TV có đủ độ tin cậy?</h3>
+<p>Các thông tin của Khomuc TV luôn được cập nhật liên tục từ các nguồn uy tín. Người xem hoàn toàn có thể yên tâm về độ chính xác của các thông tin này.</p>
+<p>&nbsp;</p>
+<h3>Quảng cáo luôn gây khó chịu với người xem, Khomuc TV đã làm gì để hạn chế việc này?</h3>
+<p>Quảng cáo luôn là vấn đề nhức nhối chung của các kênh bóng đá trực tuyến miễn phí. Đây có thể coi là nguồn kinh phí trực tiếp để duy trì cho người xem.</p>
+<p>Khomuc TV xem bóng đá cũng không thể tránh được vấn đề đó. Nhưng đội ngũ của Khomuc TV đã cố gắng hạn chế kích thước quảng cáo nhỏ nhất có thể, không làm che khuất hình ảnh và có thể tự động tắt sau 10 -15s.</p>
+<p>Trên đây là tất cả những gì mà Khomuc TV mang đến cho người dùng. Hy vọng các bạn hãy tin tưởng và ủng hộ Khomuc để có những phút giây trải nghiệm xem bóng đá trực tiếp tốt nhất.</p>
+<p>&nbsp;</p>
+<h2>Thông tin liên lạc với Khomuc TV:</h2>
+<p>Để liên lạc hoặc đề nghị hợp tác với Khô Mực TV, bạn có thể tham khảo các thông tin sau đây của chúng tôi:</p>
+<p>Kênh Youtube: <a href="https://www.youtube.com/channel/UCXsLBE1RFlrWQJ8aPrIO5Mw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">tại đây</a></p>
+<p>Group Facebook: <a href="https://www.facebook.com/groups/soikeonhacai.group" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">tại đây</a></p>
+<p>Kênh Tiktok: <a href="https://www.tiktok.com/@blvkhomuc?lang=vi-VN" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">tại đây</a></p>
+<p>Fanpge: <a href="https://www.facebook.com/CR7-Fan-105719962088463" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer sponsored">tại đây</a></p>
+<p>&nbsp;</p>
+		</div>
+
+					</div>
+</section>
+
+</main>
+
+<footer class="mt-md-0 mt-3">
+    <div class="container py-md-5 py-4">
+        <div class="logo-wrapper pb-md-2 pb-3 mb-md-2 mb-3 d-flex flex-md-row flex-column align-items-center align-items-md-end justify-content-md-between">
+            <a href="/" data-wpel-link="internal"><img class="footer__logo my-2" src="https://khomuc.tv/wp-content/themes/khomuctv/images/logo.svg" /></a>
+            <div class="d-flex align-items-center">
+                <a class="footer__contact-link text-decoration-none text-nowrap" href="/ve-chung-toi/" data-wpel-link="internal">Về chúng tôi</a>
+                <span class="mx-md-2 mx-1">|</span>
+                <a class="footer__contact-link text-decoration-none text-nowrap" href="/chinh-sach-bao-mat/" data-wpel-link="internal">Chính sách bảo mật</a>
+                <span class="mx-md-2 mx-1">|</span>
+                <a class="footer__contact-link text-decoration-none text-nowrap" href="/dieu-khoan-su-dung/" data-wpel-link="internal">Điều khoản sử dụng</a>
+            </div>
+        </div>
+
+        <div>
+            <div>Mọi trận đấu cho dù giải nhỏ cho tới các giải đấu lớn thì Khomuc.tv đều cung cấp đầy đủ link xem trực tiếp bóng đá online với độ phân giải và chất lượng cao nhất</div>
+            <div>Website: <a class="text-white text-decoration-none" href="https://khomuc.tv" data-wpel-link="internal">https://khomuc.tv</a></div>
+            <div>Phone: <a class="text-white text-decoration-none" href="tel:0764753690" data-wpel-link="internal">0764753690</a></div>
+            <div>Địa chỉ: 14 An Phú Shop Villa, La Nội, Hà Đông, Hà Nội, Việt Nam</div>
+            <div>Liên hệ quảng cáo: <a class="footer__contact-link text-decoration-none" href="mail:ads.khomuc@gmail.com" data-wpel-link="internal"><span class="__cf_email__" data-cfemail="76171205581d1e191b031536111b171f1a5815191b">[email&#160;protected]</span></a></div>
+        </div>
+
+        <div class="d-flex my-4 justify-content-md-start justify-content-center">
+                            <a class="footer__social-link fs-30" href="https://www.facebook.com/khomuctoc" rel="nofollow external noopener noreferrer sponsored" target="_blank" data-wpel-link="external"><i class="text-accent fa fa-facebook-official"></i></a>
+            
+	                        <a class="footer__social-link fs-30 ms-3" href="https://www.facebook.com/groups/xembongdataikhomuc.tv " rel="nofollow external noopener noreferrer sponsored" target="_blank" data-wpel-link="external">
+                    <img class="position-relative" width="39px" src="https://khomuc.tv/wp-content/themes/khomuctv/icons/ico_fb_group.svg" alt="Facebook group">
+                </a>
+	        
+                            <a class="footer__social-link fs-30 ms-3" href="https://www.tiktok.com/@blvkhobo?lang=vi-VN" rel="nofollow external noopener noreferrer sponsored" target="_blank" data-wpel-link="external">
+                    <img class="position-relative" width="22px" style="top: -3px;" src="https://khomuc.tv/wp-content/themes/khomuctv/icons/ic_tiktok.svg" alt="Tiktok">
+                </a>
+	        
+            
+                            <a class="footer__social-link fs-30 ms-3" href="https://www.youtube.com/channel/UCXsLBE1RFlrWQJ8aPrIO5Mw" rel="nofollow external noopener noreferrer sponsored" target="_blank" data-wpel-link="external"><i class="text-accent fa fa-youtube-play"></i></a>
+            
+                    </div>
+
+        <div class="footer__license d-flex justify-content-md-start justify-content-center">© 2022 livestreaming. All rights reserved.</div>
+    </div>
+</footer>
+
+<div class="ads-pc ads-item catfish">
+    <div class="position-relative">
+        <ins data-revive-zoneid="160" data-revive-id="2ca521b3081255ac37b87bc891c5637d"></ins>
+        <button class="position-absolute right-0 top-0" onclick="$('.ads-pc.catfish').attr('style', 'display: none !important;');">X</button>
+    </div>
+</div>
+
+<div class="ads-mb ads-item catfish">
+    <div class="position-relative">
+        <ins data-revive-zoneid="161" data-revive-id="2ca521b3081255ac37b87bc891c5637d"></ins>
+        <button class="position-absolute right-0 top-0" onclick="$('.ads-mb.catfish').attr('style', 'display: none !important;');">X</button>
+    </div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1652784068 -->
