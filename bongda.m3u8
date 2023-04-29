@@ -3,12 +3,9 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 
-#EXTINF:10.000000,
+#EXTINF:
 https://1117387573.vnns.net/live3/playlist.m3u8
 
 #EXT-X-IF-FAILED:URI="https://1117387573.vnns.net/live3/playlist.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=3840x2160
+#EXTINF:
 http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
