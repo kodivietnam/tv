@@ -1,13 +1,15 @@
 from codequick import Route, Resolver, Listitem, run
 from xbmcgui import DialogProgress
 from json import loads
-import xbmc, random, requests, re
+from urllib.parse import urlparse, parse_qs, unquote
+from os.path import basename
+import xbmc, random, requests, re, sys
 def getrow(row):
     return row['v'] if (row is not None) and (row['v'] is not None) else ''
 @Route.register
 def root(plugin, content_type="video"):
     item = Listitem()
-    item.label = 'Play with mi3s.top'
+    item.label = 'Lấy mã liên kết mi3s.top'
     item.set_callback(play_video)
     yield item
 @Resolver.register
@@ -16,10 +18,11 @@ def play_video(plugin):
     dialog = DialogProgress()
     dialog.create(f'[B][COLOR yellow]{my_number}[/COLOR][/B]', 'Đang lấy dữ liệu...')
     countdown = 200
+    timeout_expired = False
     while countdown > 0:
         if dialog.iscanceled():
             dialog.close()
-            return
+            sys.exit()
         resp = requests.get('https://docs.google.com/spreadsheets/d/11kmgd4cK8Kj7bJ8e8rGfYmgNxUvb1nQWN9S0y-4M3JQ/gviz/tq?gid=1028412373&headers=1')
         if f'"{my_number}"' in resp.text:
             dialog.close()
@@ -31,14 +34,19 @@ def play_video(plugin):
                 ten = getrow(row['c'][2])
                 if ten == my_number:
                     if kenh.startswith('http'):
-                        return plugin.extract_source(kenh)
+                        if '&kendolastname=' in kenh:
+                            return Listitem().from_dict(**{'label':parse_qs(urlparse(kenh).query).get('kendolastname', [''])[0],'callback':kenh})
+                        else:
+                            return Listitem().from_dict(**{'label':unquote(basename(urlparse(kenh).path)),'callback':kenh})
             break
         else:
             countdown -= 1
-            dialog.update(int(((200-countdown)/200)*100), f'Mã liên kết: [COLOR yellow][B]{my_number}[/B][/COLOR] - Thời gian chờ: [COLOR orange][B]{countdown}[/B][/COLOR] giây[CR]Vào trang [COLOR yellow][B]http://mi3s.top[/B][/COLOR] nhập từ khóa tìm kiếm hoặc linkplay')
+            dialog.update(int(((200-countdown)/200)*100), f'Mã liên kết: [COLOR yellow][B]{my_number}[/B][/COLOR] - Thời gian chờ: [COLOR orange][B]{countdown}[/B][/COLOR] giây[CR]Đang chờ kết nối từ [COLOR yellow][B]mi3s.top[/B][/COLOR]')
             xbmc.sleep(1000)
             if countdown == 0:
-                return
+                timeout_expired = True
+    if timeout_expired:
+        sys.exit()
     dialog.close()
 if __name__ == "__main__":
     run()
