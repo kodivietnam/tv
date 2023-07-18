@@ -9,7 +9,7 @@ def getrow(row):
 @Route.register
 def root(plugin, content_type="video"):
     item = Listitem()
-    item.label = 'Lấy mã liên kết mi3s.top'
+    item.label = 'Lấy mã liên kết với trang [COLOR yellow]mi3s.top[/COLOR]'
     item.set_callback(play_video)
     yield item
 @Resolver.register
