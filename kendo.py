@@ -19,7 +19,7 @@ def play_video(plugin):
     while countdown > 0:
         if dialog.iscanceled():
             dialog.close()
-            break
+            return
         resp = requests.get('https://docs.google.com/spreadsheets/d/11kmgd4cK8Kj7bJ8e8rGfYmgNxUvb1nQWN9S0y-4M3JQ/gviz/tq?gid=1028412373&headers=1')
         if f'"{my_number}"' in resp.text:
             dialog.close()
