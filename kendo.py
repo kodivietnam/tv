@@ -1,7 +1,7 @@
 from codequick import Route, Resolver, Listitem, run
 from xbmcgui import DialogProgress
 from json import loads
-from urllib.parse import urlparse, parse_qs, unquote
+from urllib.parse import urlparse, parse_qs, unquote, unquote_plus
 from os.path import basename
 import xbmc, random, requests, re, sys
 def getrow(row):
@@ -35,7 +35,9 @@ def play_video(plugin):
                 if ten == my_number:
                     if kenh.startswith('http'):
                         if '&kendolastname=' in kenh:
-                            return Listitem().from_dict(**{'label':parse_qs(urlparse(kenh).query).get('kendolastname', [''])[0],'callback':kenh})
+                            match = re.search(r'kendolastname=([^&]+)', kenh)
+                            lastnameok = unquote_plus(match.group(1))
+                            return Listitem().from_dict(**{'label':lastnameok,'callback':kenh})
                         else:
                             return Listitem().from_dict(**{'label':unquote(basename(urlparse(kenh).path)),'callback':kenh})
             break
