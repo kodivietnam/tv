@@ -9,7 +9,7 @@ def getrow(row):
 @Route.register
 def root(plugin, content_type="video"):
     item = Listitem()
-    item.label = 'Lấy mã liên kết với trang [COLOR yellow]mi3s.top[/COLOR]'
+    item.label = 'Lấy mã liên kết và nhập vào trang [COLOR yellow]mi3s.top[/COLOR]'
     item.set_callback(play_video)
     yield item
 @Resolver.register
@@ -17,7 +17,7 @@ def play_video(plugin):
     my_number = random.randint(10000, 99999)
     dialog = DialogProgress()
     dialog.create(f'[B][COLOR yellow]{my_number}[/COLOR][/B]', 'Đang lấy dữ liệu...')
-    countdown = 200
+    countdown = 1000
     timeout_expired = False
     while countdown > 0:
         if dialog.iscanceled():
@@ -43,7 +43,7 @@ def play_video(plugin):
             break
         else:
             countdown -= 1
-            dialog.update(int(((200-countdown)/200)*100), f'Mã liên kết: [COLOR yellow][B]{my_number}[/B][/COLOR] - Thời gian chờ: [COLOR orange][B]{countdown}[/B][/COLOR] giây[CR]Đang chờ kết nối từ [COLOR yellow][B]mi3s.top[/B][/COLOR]')
+            dialog.update(int(((1000-countdown)/1000)*100), f'Mã liên kết: [COLOR yellow][B]{my_number}[/B][/COLOR] - Thời gian chờ: [COLOR orange][B]{countdown}[/B][/COLOR] giây[CR]Đang chờ kết nối từ [COLOR yellow][B]mi3s.top[/B][/COLOR]')
             xbmc.sleep(1000)
             if countdown == 0:
                 timeout_expired = True
