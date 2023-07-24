@@ -3,7 +3,6 @@ from xbmcgui import DialogProgress
 from json import loads
 from urllib.parse import unquote
 from os.path import basename
-from base64 import b64decode
 import xbmc, random, requests, re, sys
 def getrow(row):
     return row['v'] if (row is not None) and (row['v'] is not None) else ''
@@ -33,7 +32,7 @@ def play_video(plugin):
             for row in rows:
                 dulieu = getrow(row['c'][1]).split('|')
                 tentrandau = unquote(dulieu[0])
-                kenh = b64decode(dulieu[1]).decode('utf-8')
+                kenh = dulieu[1]
                 ten = getrow(row['c'][2])
                 if ten == my_number:
                     if kenh.startswith('http'):
