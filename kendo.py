@@ -31,7 +31,7 @@ def play_video(plugin):
             rows = m['table']['rows']
             for row in rows:
                 dulieu = getrow(row['c'][1]).split('|')
-                tentrandau = unquote(dulieu[0])
+                tentrandau = unquote(dulieu[0]).replace('+', ' ')
                 kenh = dulieu[1]
                 ten = getrow(row['c'][2])
                 if ten == my_number:
