@@ -3,6 +3,7 @@ from xbmcgui import DialogProgress
 from json import loads
 from urllib.parse import urlparse, parse_qs, unquote, unquote_plus
 from os.path import basename
+from base64 import b64decode
 import xbmc, random, requests, re, sys
 def getrow(row):
     return row['v'] if (row is not None) and (row['v'] is not None) else ''
@@ -30,16 +31,13 @@ def play_video(plugin):
             m = loads(noi)
             rows = m['table']['rows']
             for row in rows:
-                kenh = getrow(row['c'][1])
+                dulieu = getrow(row['c'][1]).split('%7C')
+                tentrandau = unquote(dulieu[0])
+                kenh = b64decode(dulieu[1]).decode('utf-8')
                 ten = getrow(row['c'][2])
                 if ten == my_number:
                     if kenh.startswith('http'):
-                        if '&kendolastname=' in kenh:
-                            match = re.search(r'kendolastname=([^&]+)', kenh)
-                            lastnameok = unquote_plus(match.group(1))
-                            return Listitem().from_dict(**{'label':lastnameok,'callback':kenh})
-                        else:
-                            return Listitem().from_dict(**{'label':unquote(basename(urlparse(kenh).path)),'callback':kenh})
+                        return Listitem().from_dict(**{'label':tentrandau,'callback':kenh})
             break
         else:
             countdown -= 1
