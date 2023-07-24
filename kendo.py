@@ -1,7 +1,7 @@
 from codequick import Route, Resolver, Listitem, run
 from xbmcgui import DialogProgress
 from json import loads
-from urllib.parse import urlparse, parse_qs, unquote, unquote_plus
+from urllib.parse import unquote
 from os.path import basename
 from base64 import b64decode
 import xbmc, random, requests, re, sys
