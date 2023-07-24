@@ -31,7 +31,7 @@ def play_video(plugin):
             m = loads(noi)
             rows = m['table']['rows']
             for row in rows:
-                dulieu = getrow(row['c'][1]).split('%7C')
+                dulieu = getrow(row['c'][1]).split('|')
                 tentrandau = unquote(dulieu[0])
                 kenh = b64decode(dulieu[1]).decode('utf-8')
                 ten = getrow(row['c'][2])
