@@ -30,13 +30,16 @@ def play_video(plugin):
             m = loads(noi)
             rows = m['table']['rows']
             for row in rows:
-                dulieu = getrow(row['c'][1]).split('|')
-                tentrandau = unquote(dulieu[0]).replace('+', ' ')
-                kenh = dulieu[1]
-                ten = getrow(row['c'][2])
-                if ten == my_number:
-                    if kenh.startswith('http'):
-                        return Listitem().from_dict(**{'label':tentrandau,'callback':kenh})
+                try:
+                    dulieu = getrow(row['c'][1]).split('|')
+                    tentrandau = unquote(dulieu[0]).replace('+', ' ')
+                    kenh = unquote(dulieu[1])
+                    ten = getrow(row['c'][2])
+                    if ten == my_number:
+                        if kenh.startswith('http'):
+                            return Listitem().from_dict(**{'label':tentrandau,'callback':kenh})
+                except:
+                    return
             break
         else:
             countdown -= 1
