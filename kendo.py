@@ -39,7 +39,7 @@ def play_video(plugin):
                         if kenh.startswith('http'):
                             return Listitem().from_dict(**{'label':tentrandau,'callback':kenh})
                 except:
-                    return
+                    sys.exit()
             break
         else:
             countdown -= 1
